@@ -14,4 +14,3 @@ My name is Renata and I'm developer.
 - 🔭 I’m currently working on GDDoc
 - 🌱 I’m currently learning React and NodeJS
 - :woman_student: Computer Science Student
--->
