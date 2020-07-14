@@ -9,8 +9,8 @@
 ### Hi guys 👋
 
 My name is Renata and I'm developer.
-
-- 💙 In love with Technology
+- 🌎 I'm from João Pessoa, Paraíba, Brazil
 - 🔭 I’m currently working on GDDoc
 - 🌱 I’m currently learning React and NodeJS
+- 💙 In love with Technology
 - :woman_student: Computer Science Student
