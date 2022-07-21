@@ -11,7 +11,7 @@
 My name is Renata and I'm developer.
 - 🌎 I'm from João Pessoa, Paraíba, Brazil
 - 🔭 I’m currently working on Fiabilité
-- 🌱 I’m currently learning React and NodeJS
+- 🌱 I’m currently learning React, NodeJS, AngularJS...
 - 💙 In love with Technology
 - :woman_student: Computer Science Student
 
